@@ -12,9 +12,9 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
 
 ## 📂 Featured Projects
-- [Project 1](https://github.com/yourusername/project1) – Short description
-- [Project 2](https://github.com/yourusername/project2) – Short description
-- [Project 3](https://github.com/yourusername/project3) – Short description
+- [Project 1] ON THE WAY – Short description
+- [Project 2] Almost Completeed  – Short description
+- [Project 3] Coming Soon – Short description
 
 ## 🌱 Currently Learning
 - JavaScript
