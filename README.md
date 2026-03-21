@@ -21,7 +21,6 @@
 - Java
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/feed/))
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)]()
+
 
 ---
